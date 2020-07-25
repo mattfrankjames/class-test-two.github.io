@@ -1,0 +1,29 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+img {
+  width: 100%;
+  height: auto;
+}
+* {
+  box-sizing: border-box;
+}
+body {
+  color: #44464a;
+  background: #e8e8e8;
+}
+h1, h2, h3, h4 {
+  margin-top: 0;
+  font-weight: normal;
+}
+.page-main {
+  width: 95%;
+  max-width: 960px;
+  margin: 0 auto;
+}
+.main-img {
+  width: 50%;
+  float: left;
+  margin-right: 16px;
+}
